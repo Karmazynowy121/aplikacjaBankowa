@@ -1,0 +1,16 @@
+C:\Users\Karmazynowy\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.exe
+C:\Users\Karmazynowy\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\Users\Karmazynowy\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\Users\Karmazynowy\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\Users\Karmazynowy\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.dll
+C:\Users\Karmazynowy\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.pdb
+C:\Users\Karmazynowy\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+C:\Users\Karmazynowy\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karmazynowy\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Karmazynowy\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\Karmazynowy\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Karmazynowy\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.dll
+C:\Users\Karmazynowy\source\repos\Bank\Bank\obj\Debug\net5.0\refint\Bank.dll
+C:\Users\Karmazynowy\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.pdb
+C:\Users\Karmazynowy\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
+C:\Users\Karmazynowy\source\repos\Bank\Bank\obj\Debug\net5.0\ref\Bank.dll
